@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>MapTest000.html</title>
+</head>
+<body>
+
+<!-- ○ 발급 받은 App Key -->
+<!-- 436e9831702a60c385609d518e5ad04a -->
+<!-- ○ 지도 중심 좌표 -->
+<!-- 37.556583, 126.919521 -->
+
+<div>
+	<h1>Kakao Map 생성 기본 관찰</h1>
+	<p>지도 생성 기본 내용 관찰1</p>
+	<hr>
+</div>
+</body>
+</html>
